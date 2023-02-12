@@ -1,8 +1,3 @@
-// SJ's comment
-//This comment is from Shawn
-
-// Inclass demo comment
-
 public class HelloWithIncrements {
     public static void main(String[] args) {
         int number = 0;
@@ -19,5 +14,5 @@ public class HelloWithIncrements {
     public int incrementByTwo(int number) {
         return(number + 2);
     }
-    //Danger comment  
+
 }
